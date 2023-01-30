@@ -6,7 +6,7 @@ public class Arithmetic {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int sub = a - b;
-       // System.out.println(sub);
+        System.out.println(sub);
         int mul = a * b;
       //  System.out.println(mul);
         int div = a/b;
